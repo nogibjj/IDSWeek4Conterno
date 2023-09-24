@@ -2,8 +2,12 @@
 
 Data visualization using pandas.
 
-[![Python package](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml)
+[![Python package 3.9](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml)
+[![Python package 3.8](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml)
+[![Python package 3.7](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml)
 
+##Python Versions Matrix Badges
+[![Python 3.9](https://github.com/nogibjj/IDSWeek4Conterno/actions/workflows/CICD.yml/badge.svg)](https://github.com/nogibjj/IDSWeek4Conterno/actions/workflows/CICD.yml)
 ### Makefile Command Status
 
 - Install: [![Install](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg?event=push&step=make_install)](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml)
