@@ -5,9 +5,9 @@ Data visualization using pandas.
 
 ###Python Versions Matrix Badges
 
-3.9:[![Python package 3.9](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)]((https://github.com/nogibjj/IDSWeek4Conterno/actions/runs/6287430299/job/17071879412))\
-3.8[![Python package 3.8](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)]((https://github.com/nogibjj/IDSWeek4Conterno/actions/runs/6287430299/job/17071879582))\
-3.7[![Python package 3.7](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)]((https://github.com/nogibjj/IDSWeek4Conterno/actions/runs/6287430299/job/17071879504))
+Python 3.9: [![Python package 3.9](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)]((https://github.com/nogibjj/IDSWeek4Conterno/actions/runs/6287430299/job/17071879412))\
+Python 3.8: [![Python package 3.8](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)]((https://github.com/nogibjj/IDSWeek4Conterno/actions/runs/6287430299/job/17071879582))\
+Python 3.7: [![Python package 3.7](https://github.com/nicholasconterno/IDSProject1/actions/workflows/python-package.yml/badge.svg)]((https://github.com/nogibjj/IDSWeek4Conterno/actions/runs/6287430299/job/17071879504))
 
 
 ### Makefile Command Status
